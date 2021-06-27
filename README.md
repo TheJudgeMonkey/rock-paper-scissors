@@ -3,7 +3,7 @@
 
 ![screenshot](screenshots/screen.png "Screenshot")
 
-- choose your element :new_moon: :scissors: :page_facing_up:
+- choose your element :new_moon: :page_facing_up: :scissors: 
 ![choose element](screenshots/choose.gif "choose")
 
 - watch the status :eyes:
